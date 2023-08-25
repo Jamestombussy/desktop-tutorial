@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <header></header> 
+
+</head>
+<body>
+    <p>1965 -	2 computers at mit lincon lab comunicate using packet-switching technology</p>
+    <p>1965	- 2 computers at mit lincon lab comunicate using packet-switching technology</p>
+    <p>1968 -	Beranek and Newman Inc unveils the Interface Message Processor BBN wins ARPANET contract.</p>
+    <p>1969 - October 29	first message was attempted by a student named charles kline</p>
+    <p>1972 -	introduction of the network email</p>
+    <p>1972	- introduction of the network email</p>
+    <p>1974 -	first internet provider is born known as telenet</p>
+    <p>1974	- the publishment of " a protocal for packet network interconnection"</p>
+    <p>1979 -	USENET forms to host news and discussion groups.</p>
+    <p>1981	- the National Science Foundation (NSF) provided a grant to establish the Computer Science Network</p>
+    <p>1982 -	emergance of Transmission control protical and internet protical for the ARPANET</p>
+    <p>1983 -	domain names established like .edu.gov .com .mil .org. net</p>
+    <p>1984 -	the term cyber space is used for the first time by william gibson</p>
+    <p>1985 -	symbolics.com became the first registers domain</p>
+    <p>1986	- the first super computer made by the NSFNET</p>
+    <p>1987 - more than 20000 people useing the internet, first shipped router</p>
+    <p>1989	- world STD.com becomes the first comercial provider  of dial up access to the internet//</p>
+    <p>1990 -	html is developed by a scientist at CERN</p>
+    <p>1991	- CERN introduces the world wide web</p>
+    <p>1992 -	first audio and video are distributed over internet</p>
+    <p>1993 -	the white house and united nations go online</p>
+    <p>1994 -	microsoft creates web browser for windows 95</p>
+    <p>1994	- yahoo is vreated</p>
+    <p>1995 -	amazon.com , craiglist and ebay go online, NSFNET backbone is decomissioned</p>
+    <p>1995 -	first online dating site Match.com is launched</p>
+    <p>1996 -	the browser war between microsoft and net scape heats up</p>
+    <p>1996 -	fist viral video called the dancing baby (whatch the video Oogachaka Baby)</p>
+    <p>1997 -	netflix is founded</p>
+    <p>1997 -	pc makers can remove or hide microsoft, netscape anounces that their browser will be free</p>
+    <p>1998	- google search browser is born changing the way people use the internet</p>
+    <p>1999 -	aol buys netscape, file sharing become a thing</p>
+    <p>2000 -	websites such as yahoo and ebay are hit with large scale service attacks</p>
+    <p>2001 -	napstar is shut down by a fedral judge</p>
+    <p>2003 -	SQL slammer worm spread world wide in 10 minutes myspace, skype and safari come out</p>
+    <p>2003 -	The blog publishing platform WordPress is launched.</p>
+    <p>2004 -	facebook goes online and a new ear of social media begins</p>
+    <p>2005	- youtube launches and reddit is founded</p>
+    <p>2006 -	AOL changes its buisness model to offer more free services relying on advertising</p>
+    <p>2006 -	twitter launches </p>
+    <p>2009 -	internet has its 40th annivesary</p>
+    <p>2010 -	facebook reaches 400 million active users</p>
+    <p>2010 -	pintrest and instagram are launched</p>
+    <p>2011 -	twitter and facebook play a  large role in the middle east revolts</p>
+    <p>2012	- barack obama opposesthe stop online piracy act</p>
+    <p>2013 -	reveals that the NSA had in place a monitoring program capable of tapping the communications of thousands of people, including U.S. citizens.</p> 
+    <p>2013 -	51 percentof US adults report that they bank online </p>
+    <p>2015 -	instagram reahces 400 milliion users out pacing twiter</p>
+    <p>2016 -	google unveils google assistant voice activated AI  joining the AI assistand market place</p>
+    <p>2019 -	5g networks are launched, giving people faster internet</p>
+    <p>2021 -	half the world is connected to the internet</p>
+    <p>2022 -	Low–Earth orbit satellite internet is closer to reality. By early January 2022, SpaceX launches more than 1,900 Starlink satellites overall.</p>
+
+    <p>By James Kidenya</p>
+</body>
+</html>
 
