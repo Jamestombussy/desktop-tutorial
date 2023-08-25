@@ -1,1 +1,20 @@
-
+</head>
+<body>
+  <h1>Fortnite </h1>
+  <h2>Rating: 7.5/10</h2>
+  <p>
+Fortnite by Epic Games is one of the games of our time, popular among a wide range of audiances, it saw its peak in 2017-2020  </p>
+  <p>
+    The game drops 100 players onto an island where they must scavenge for weapons, resources, and gear to outlast their opponents. The building mechanic creates an autistic and competetive element which sets it apart from other 3rd person fps shooters such as PUBG and Pixel Gun 3D Battle Royale.
+  </p>
+  <p>
+    One of Fortnite's standout features is its constant stream of updates and collaborations with pop culture. For example Fortnite has done collaborations with The Rock, Marshmellow, John Wick, Terminator, The Kingdom of Italy and Dragon Ball Z
+  </p>
+  <p>
+    However, there are some critisims about the game, as it has a contreversial history with microtransactions, In the game you can buy Items, Skins and Emotes using the game currency "V-Bucks". 
+  </p>
+  <p>
+    In conclusion, Fortnite's combination of innovative gameplay, regular updates, and community engagement make it a staple in the video game community
+  </p>
+</body>
+</html>
