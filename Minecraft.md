@@ -9,12 +9,12 @@ Minecraft is a sandbox survival where your only limits are your imagination.  </
     The game spawns you into a world where you collect resources, and gear to survive against the thugs. The end goal of the game is to kill the big, black, scary dragon but you can continue to build and explore to your hearts content.
   </p>
   <p>
-    One of the things that make Minecraft good is its experiences, there is nothing special about the game itself but the memories you make playing it, such as surviving your first night or building a replica of Aushwitz in minecraft
+    One of the things that makes Minecraft good is the experiences, the memories you make playing it, such as surviving your first night or building a replica of Auschwitz in minecraft.
   </p>
   <p>
-Minecraft's community-driven modding scene has expanded its potential even further, allowing players to add new features, gameplay mechanics, and even entirely new worlds. some noteable mods include the Jenny Mod, Crayfish's Gunmod and Just Enough Items</p>
+Minecraft's community-driven modding scene has expanded its potential even further, allowing players to add new features, gameplay mechanics, and even entirely new worlds. Some noteable mods include the Jenny Mod, Crayfish's Gunmod and Just Enough Items.</p>
   <p>
-    In conclusion, Minecraft's timeless appeal and boundless creativity make it a standout title. It's a game that appeals to players of all ages and continues to inspire new generations of players and creators
+    In conclusion, Minecraft's timeless appeal and boundless creativity made it a standout title. It's a game that appeals to players of all ages and continues to inspire new generations of players and creators.
   </p>
 </body>
 </html>
