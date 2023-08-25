@@ -1,6 +1,7 @@
 </head>
 <body>
   <h1>Grand Theft Auto 5 </h1>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/220px-Grand_Theft_Auto_V.png" alt="GTA V" style="width:250px;height:250px;">
   <h2>Rating:8/10</h2>
 <p>Grand Theft Auto V (GTA 5) is an open-world action-adventure game developed by Rockstar North. It's the fifth main installment in the iconic Grand Theft Auto series.</p>
       <p>GTA 5's sprawling fictional city of Los Santos provides an incredibly detailed and dynamic environment for players to explore. The game's narrative follows three protagonists, each with their own unique personalities and storylines, which adds depth to the gameplay experience.</p>
