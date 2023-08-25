@@ -5,7 +5,7 @@
 
 </head>
 <body>
-  <button onclick="document.location='default.asp'">HTML Tutorial</button>
+  <button onclick="document.location='Hardware and Software.asp'">Harware and Software</button>
   <img src="" alt="">
 </body>
 </html>
