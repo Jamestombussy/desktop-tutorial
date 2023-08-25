@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <header></header> 
+  <h1>Internet History Timeline</h1> 
 
 </head>
 <body>
@@ -57,7 +57,7 @@
     <p>2021 -	half the world is connected to the internet</p>
     <p>2022 -	Low–Earth orbit satellite internet is closer to reality. By early January 2022, SpaceX launches more than 1,900 Starlink satellites overall.</p>
 
-    <p>By James Kidenya</p>
+  <p>By James Kidenya</p>
 </body>
 </html>
 
