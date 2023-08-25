@@ -9,6 +9,6 @@
       <p>The heart of Among Us lies in its social interaction. Players need to communicate, form pacts, and use  reasoning to identify the impostors. This aspect of the game has made it a hit for online streaming and multiplayer parties.</p>
       <p>Among Us is accessible and easy to understand, making it suitable for players of all ages. However, the game's reliance on player interaction means that it's best enjoyed with a group of friends or a community that values teamwork and deception.</p>
 <p>In conclusion, Among Us is the epitome of pixelated chaos that's best enjoyed with questionable accusations, wild theories, and friends you don't mind yelling at. 10/10.</p>
-  <a href="The Games.md">
+  <a href="The Games.html">
   <p>Go back</p>
   </a>
