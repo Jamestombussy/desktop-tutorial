@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hardware and Software</title>
+<title>Hardware and Software</title>
 </head>
 <body>
 <h1 style="text-align:center;"> How was the website made? </h1>
