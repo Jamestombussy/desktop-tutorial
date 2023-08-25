@@ -6,7 +6,7 @@
   <p>
 Fortnite by Epic Games is one of the games of our time, popular among a wide range of audiances, it saw its peak in 2017-2020  </p>
   <p>
-    The game drops 100 players onto an island where they must scavenge for weapons, resources, and gear to outlast their opponents. The building mechanic creates an autistic and competetive element which sets it apart from other 3rd person fps shooters such as PUBG and Pixel Gun 3D Battle Royale.
+    The game drops 100 players onto an <a href="https://www.google.com.au/maps/place/90+King+St,+Mascot+NSW+2020/@-33.931192,151.2017673,17z/data=!3m1!4b1!4m6!3m5!1s0x6b12b10980b0713f:0xf99a70971fe96ea2!8m2!3d-33.9311965!4d151.2043476!16s%2Fg%2F11c4sgwy9r?entry=tts&shorturl=1">island</a> where they must scavenge for weapons, resources, and gear to outlast their opponents. The building mechanic creates an autistic and competetive element which sets it apart from other 3rd person fps shooters such as PUBG and Pixel Gun 3D Battle Royale.
   </p>
   <p>
     One of Fortnite's standout features is its constant stream of updates and collaborations with pop culture. For example Fortnite has done collaborations with The Rock, Marshmellow, John Wick, Terminator, The Kingdom of Italy and Dragon Ball Z.
