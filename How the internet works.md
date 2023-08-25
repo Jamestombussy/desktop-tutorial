@@ -33,6 +33,6 @@
         <p>Extended Reality</p>
         <p><Robotic Press Automation/p>
     </section>
-    <p> By Xavier Handoko </p>
+    <p> By <a href="https://en.wikipedia.org/wiki/Sweatshop">Xavier Handoko</a> </p>
 </body>
 </html>
