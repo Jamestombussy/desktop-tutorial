@@ -21,7 +21,7 @@
 </a>
 
 <a href="Fortnite.md">
-<img src="" alt="Fortnite" style="width:250px;height:250px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FortniteLogo.svg/250px-FortniteLogo.svg.png" alt="Fortnite" style="width:250px;height:250px;">
 </a>
 </body>
 </html>
