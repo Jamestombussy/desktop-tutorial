@@ -1,6 +1,7 @@
 </head>
 <body>
   <h1>Among Us </h1>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Among_Us_cover_art.jpg/220px-Among_Us_cover_art.jpg" alt="Among Us" style="width:250px;height:250px;">
   <h2>Rating: 9/10</h2>
   <p>
  <p>Among Us is a multiplayer online game developed by InnerSloth that gained massive popularity for its social deduction gameplay. Released in 2018, the game took the world by storm in 2020.</p>
