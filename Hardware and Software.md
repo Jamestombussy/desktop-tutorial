@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
+    <head>
     <title>Hardware and Software</title>
 </head>
 <body>
     <header>
         <h1 style="text-align:center;"> Hardware and Software </h1>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" alt="githubcat">
-      <img src="https://ashfield-p.schools.nsw.gov.au/content/dam/doe/sws/schools/a/ashfield-p/localcontent/stage_33.JPG.thumb.1280.1280.jpg" alt="schoolpc">
+     <aside>
+      <img class="img_deg" src="https://ashfield-p.schools.nsw.gov.au/content/dam/doe/sws/schools/a/ashfield-p/localcontent/stage_33.JPG.thumb.1280.1280.jpg" alt="schoolpc" style="width:250px;height:250px;">
+    </aside>
     </header>
     <section>
         <h2>What software was used in making the website?</h2>
@@ -14,8 +17,7 @@
     </section>
     <section>
         <h2>What Hardware Was Used?</h2>
-        <p></p>
+        <p>Most of the website was coded on a school computer. On the school computer, the CPU was an Intel(r) Core(TM) i3-4130 CPU @3.40 GHz which launched in september 2013. An outdated CPU could cause the computer to freeze or not process properly. </p>
     </section>
-    <section>
 </body>
 </html>
