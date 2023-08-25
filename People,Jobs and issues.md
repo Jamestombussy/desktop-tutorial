@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
    <? header('location:home. html'); ?>
-    <title>People, Jobs and Issues in Using Websites</title>
 </head>
 <body>
     <header>
