@@ -5,7 +5,7 @@
 
 </head>
 <body>
-  <button onclick="document.location='Hardware and Software.asp'">Harware and Software</button>
+<p><a href="Hardware_and_Software.asp">Hardware and Software</a></p>
   <img src="" alt="">
 </body>
 </html>
