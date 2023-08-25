@@ -4,8 +4,16 @@
   
 </head>
 <body>
-<a href="default.asp">
-<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+<a href="Minecraft.md">
+<img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" alt="Minecraft" style="width:250px;height:250px;">
+</a>
+  
+<a href="Roblox.md">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Roblox_Logo_2022.svg/220px-Roblox_Logo_2022.svg.png" alt="Roblox" style="width:250px;height:250px;">
+</a>
+
+<a href="GTA V.md">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/220px-Grand_Theft_Auto_V.png" alt="GTA V" style="width:250px;height:250px;">
 </a>
 </body>
 </html>
