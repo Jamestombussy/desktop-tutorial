@@ -1,11 +1,4 @@
 
-Future Tech:
-Computing Power. Computing power has already established its place in the digital era, with almost every device and appliance being computerized. ...
-Smarter Devices. ...
-Digital Trust. ...
-3D Printing. ...
-New Energy Solutions.
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -14,9 +7,8 @@ New Energy Solutions.
 <body>
     <header>
         <h1 style="text-align:center;"> How The Internet Works </h1>
-      <img src="" alt="Internet">
      <aside>
-      <img class="img_deg" src="" alt="" style="width:250px;height:250px;">
+      <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230420093202/Internet-image-(2).webp" alt="internet" style="width:250px;height:250px;">
     </aside>
     </header>
     <section>
