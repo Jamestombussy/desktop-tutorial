@@ -17,7 +17,8 @@
     </section>
     <section>
         <h2>What Hardware Was Used?</h2>
-        <p>Most of the website was coded on a school computer. On the school computer, the CPU was an Intel(r) Core(TM) i3-4130 CPU @3.40 GHz which launched in september 2013. An outdated CPU could cause the computer to freeze or not process properly. </p>
+        <p>Most of the website was coded on a school computer. On the school computer, the CPU was an Intel(r) Core(TM) i3-4130 CPU @3.40 GHz, which launched in september 2013. An outdated CPU could cause the computer to freeze or not process properly. The computer also had 4 gigabytes of memory. Having low memory creates lots of problems if the pc has low memory, the pc will be slow and sluggish,especially when multitasking.</p>
     </section>
+    <p> By James Tomossy </p>
 </body>
 </html>
