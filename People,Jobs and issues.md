@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-   
+   <? header('location:home. html'); ?>
     <title>People, Jobs and Issues in Using Websites</title>
 </head>
 <body>
@@ -27,6 +27,11 @@
         <h2>Conclusion</h2>
         <p>As the digital landscape continues to evolve, addressing security and privacy concerns in website usage remains a priority. By working together, users and website owners can create a safer and more trustworthy online environment.</p>
     </section>
+    <section>
+    <h2>Production</h2>
+        <p>This wbsite had been develped thanks to the help of the W3 school courses and my group. We had gone through the W3 school courses and taught ourselves how to code and what it means. </p>
+    </section>
+            <p> By uzair uzaln zubair sazzad <p>
     <footer>
 </body>
 </html>
