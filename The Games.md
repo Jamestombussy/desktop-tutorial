@@ -26,7 +26,7 @@
 <a href="Among Us.md">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Among_Us_cover_art.jpg/220px-Among_Us_cover_art.jpg" alt="Among Us" style="width:250px;height:250px;">
 </a>
-  <p>Among is psychological strategy game where you have to vote out an imposter to win.</p>
+  <p>Among us, is psychological strategy game where you have to vote out an imposter to win.</p>
   
   <h6>Fortnite</h6>
 <a href="Fortnite.md">
