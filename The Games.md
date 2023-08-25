@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html> 
 <head>
-  
+  <h1>5 Video Games : Review</h1>
 </head>
 <body>
-  <h1>Minecraft</h1>
+  <h2>Minecraft</h2>
 <a href="Minecraft.md">
 <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" alt="Minecraft" style="width:250px;height:250px;">
 </a>
