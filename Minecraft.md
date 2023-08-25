@@ -1,7 +1,7 @@
 </head>
 <body>
   <h1>Minecraft</h1>
-<img src="" alt="Minecraft" style="width:250px;height:250px;">
+<img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" alt="Minecraft" style="width:250px;height:250px;">
   <h2>Rating: 8/10</h2>
   <p>
 Minecraft is a sandbox survival where your only limits are your imagination.  </p>
