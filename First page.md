@@ -26,7 +26,7 @@
   <p>Look At The Hardware and Software!</p>
   </a>
 
-    <a href="How the internet works.html">
+   <a href="How the internet works.html">
   <p>Look At How The Internet Works!</p>
   </a>
 
