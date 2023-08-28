@@ -18,10 +18,14 @@
   <p>Look At Our Game Reviews!</p>
   </a>
 
+  <a href="Group Timeline.html">
+  <p>Look At The Group Timeline!</p>
+  </a>
+
   <a href="JAmes timeline.html">
   <p>Look At The Timeline Of The Internet!</p>
   </a>
-
+  
    <a href="Hardware and Software.html">
   <p>Look At The Hardware and Software!</p>
   </a>
